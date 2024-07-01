@@ -11,5 +11,3 @@ Release 1.4 of the Vienna 5G System Level Simulator is available since October 2
 - licensed QUAsi Deterministic RadIo channel GenerAtor (QuaDRiGa) source code (for using the QuaDRiGa channel models)
 
 Contact e-mail: gabriel.andrade@ufu.br
-
-![alt text](https://imgur.com/a/3DvZZhU)
