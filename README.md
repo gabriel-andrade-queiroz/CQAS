@@ -1,7 +1,5 @@
 # CQAS
 
-*HetNet and CQAS algorithm codes will be uploaded upon acceptance
-
 This repository presents the codes used to implement the heterogeneous network scenario and the CQAS scheduling algorithm for the work entitled "A new Channel and QoS Aware Scheduler algorithm for real-time and non-real-time traffic in 5G heterogeneous networks".
 
 The Vienna 5G System Level Simulator can be found in https://www.tuwien.at/etit/tc/vienna-simulators/vienna-5g-simulators/.
