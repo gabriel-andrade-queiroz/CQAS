@@ -12,3 +12,4 @@ Release 1.4 of the Vienna 5G System Level Simulator is available since October 2
 
 Contact e-mail: gabriel.andrade@ufu.br
 
+![alt text](https://imgur.com/a/3DvZZhU)
